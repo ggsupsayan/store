@@ -61,6 +61,7 @@ span {
   letter-spacing: 0.12px;
 }
 h1 {
+  text-align: center;
   font-family: Sansita Swashed;
   font-size: 71.46px;
   font-style: normal;
@@ -84,7 +85,6 @@ button {
 }
 .main-img {
   display: flex;
-  gap: 100px;
 }
 .container {
   padding-left: 40px;
